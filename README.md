@@ -1,19 +1,27 @@
-## Counter App (DOM Project)
+# 🎉 Random Joke Generator  
+### A DOM Manipulation Practice Project
 
-This is a simple Counter App built using **HTML, CSS, and JavaScript**.  
-The project was created while learning the **DOM (Document Object Model)**.
-
----
-
-## Features
-- Increase count
-- Decrease count
-- Updates the number on screen dynamically using the DOM
-- Beginner friendly project
+This is a simple and fun **Random Joke Generator** built for practicing **JavaScript DOM manipulation**.  
+Users can generate random jokes and even listen to them in **multiple languages** using Text-to-Speech.
 
 ---
 
+## 🔥 Features
 
+- ✔ Generate random jokes with a button  
+- ✔ 20+ funny jokes stored in an array  
+- ✔ Modern, clean & responsive UI  
+- ✔ Smooth fade-in animation for each joke  
+- ✔ Text-to-Speech (TTS) support  
+- ✔ Multiple language voices (Hindi, English, Gujarati, Tamil, Bengali, etc.)  
+- ✔ Beginner-friendly code structure  
+- ✔ Great for learning DOM manipulation  
 
-##  Learning Source
-Project made while learning JavaScript DOM.
+---
+
+## 🧠 Technologies Used
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla JS)**  
+- **Web Speech**
